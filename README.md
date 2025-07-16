@@ -29,7 +29,6 @@ pip install -r requirements.txt
 ### 4. Configure environment variables
 - Create a `.env` file in the project root with the following:
 ```
-OPENAI_API_KEY=your_openai_api_key
 MYSQL_URI=mysql+pymysql://user:password@host:port/dbname
 ```
 
